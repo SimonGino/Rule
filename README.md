@@ -8,9 +8,6 @@
 感谢
 lhie1 Choler onewayticket255 yichahucha
 
-clash_rule_nexitally.ini
-emby分流里只有奶昔塌了的emby节点
-
 clash_rule.ini
 根据Thor-jelly改编自定义的clash配置，分组，谢谢这位大哥
 无emoji
